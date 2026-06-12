@@ -32,6 +32,4 @@ The objective of this project is to analyze and visualize Prime Video content da
 
 Conclusion
 
-This dashboard helps users explore content distribution, understand viewing trends, and gain meaningful insights from Prime Video using data  analytics techniques. 
-
 This dashboard helps users explore content distribution, understand viewing trends, and gain meaningful insights from Prime Video data using data analytics techniques.
