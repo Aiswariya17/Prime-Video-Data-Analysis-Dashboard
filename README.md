@@ -5,7 +5,8 @@ Project Overview
 The Prime Video Data Analytics Dashboard is a data visualization project developed using Python. It provides valuable insights into Prime Video content through graphical representations and statistical analysis.
 
 Dashboard Preview
- ![dashboard preview] (dashboad.png)
+
+ ![dashboard preview](dashboad.png)
 
 Features
 
