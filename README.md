@@ -6,7 +6,7 @@ The Prime Video Data Analytics Dashboard is a data visualization project develop
 
 Dashboard Preview
 
- ![dashboard png](dashboad.png)
+ ![dashboad png](dashboad.png)
 
 Features
 
